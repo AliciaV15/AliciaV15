@@ -20,12 +20,12 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=6d287e">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2f6c8a">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=7377ad">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=7377ad">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=f06a31">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=39acdd">
 
-
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=39acdd">
 
 ## Frameworks 📘
 <p align="center">  
