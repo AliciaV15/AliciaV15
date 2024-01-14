@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a computer cience student , and here you'll find some of my projects and contributions. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=F7F7F7&random=false&width=550&lines=Commit+yourself+to+constant+improvement;Hello+World!;Always+learning;Coding...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=F7F7F7&random=false&width=550&lines=Commit+to+constant+improvement;Hello+World!;Always+learning;Coding...)](https://git.io/typing-svg)
 
 ## My Areas Of Interest
 
