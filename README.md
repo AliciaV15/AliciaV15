@@ -11,13 +11,6 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 - 🤖 Machine learning
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AliciaV15's streak" src="https://streak-stats.demolab.com?user=AliciaV15&theme=radical"/>
-   
-
-
 
 ## Languages ✏️
 <p align="center">  
@@ -44,6 +37,13 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 
 
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AliciaV15's streak" src="https://streak-stats.demolab.com?user=AliciaV15&theme=radical"/>
+   
 
 
 
