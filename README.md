@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaV15&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaV15&hide_progress=true&theme=radical)
 
 ## Languages ✏️
 <p align="center">  
