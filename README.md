@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
  
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=white&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
   
  
