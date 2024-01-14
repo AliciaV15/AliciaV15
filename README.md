@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Your Name]
+# Hello! 👋 I'm Alicia
 
 Welcome to my GitHub profile! I'm a passionate [your profession or main interest], and here you'll find some of my projects and contributions. Explore and discover what I'm building!
 
