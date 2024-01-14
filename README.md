@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 
 ## GitHub Stats
-
+<p align="center">  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
 
 <p>
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=f06a31">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=39acdd">
 
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=39acdd">
+
 
 ## Frameworks and tools 📘
 <p align="center">  
@@ -43,11 +43,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=ff3427">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=ffffff">
 
-## Database 💾
-<p align="center">  
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sqlserver&svgfill=712d79">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffffff">
+
 
 
 
