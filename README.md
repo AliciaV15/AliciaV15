@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
 
 ## Languages 
 <p align="center">  
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
  
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=white&logo=react&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=white&test=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
   
  
