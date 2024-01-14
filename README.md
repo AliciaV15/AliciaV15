@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Alicia
+ <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> # Hello! I'm Alicia
 
 Welcome to my GitHub profile! I'm a computer cience student , and here you'll find some of my projects and contributions. 
 
