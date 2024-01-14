@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 ## Languages 
 <p align="center">  
 
- <a href="https://github.com/harish-sethuraman/readme-components">
+ 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=6d287e">
-</a>
+
 
  <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
