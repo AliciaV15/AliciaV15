@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaV15&hide_progress=true&theme=radical)
+
 
 ## Languages ✏️
 <p align="center">  
@@ -20,10 +20,8 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=6d287e">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2f6c8a">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=2f6c8a">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&svgfill=2f6c8a">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css&svgfill=2f6c8a">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sql&svgfill=2f6c8a">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=7377ad">
+
 
  
 <a href="https://github.com/harish-sethuraman/readme-components">
