@@ -13,6 +13,12 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
 
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AliciaV15's streak" src="https://streak-stats.demolab.com?user=AliciaV15&theme=radical"/>
+    </a>
+</p>
+
 
 ## Languages ✏️
 <p align="center">  
@@ -32,10 +38,12 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=712d79">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=ff3427">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=ffffff">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQL&svgfill=ffffff">
+   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vscode&svgfill=ffffff">
 
 
 
