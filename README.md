@@ -27,11 +27,12 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=39acdd">
 
-## Frameworks 📘
+## Frameworks and tools 📘
 <p align="center">  
  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=659b60">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=ff3427">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=ffffff">
