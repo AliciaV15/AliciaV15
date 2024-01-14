@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
  
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=white&test=black&logo=react&animation=spin&svgfill=15d8fe">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=white&text=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
   
  
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaV15&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 
