@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 Let's connect! Find me on:
 
-- [LinkedIn](link to your LinkedIn profile)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](link to your LinkedIn profile)
 - [Twitter](link to your Twitter profile)
 
 Thanks for visiting my profile!
