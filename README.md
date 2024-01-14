@@ -18,12 +18,16 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliciaV15&show_icons=true&theme=radical)
 
-## Languages 
+## Languages ✏️
 <p align="center">  
  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=6d287e">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2f6c8a">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=2f6c8a">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&svgfill=2f6c8a">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css&svgfill=2f6c8a">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sql&svgfill=2f6c8a">
 
  
 <a href="https://github.com/harish-sethuraman/readme-components">
