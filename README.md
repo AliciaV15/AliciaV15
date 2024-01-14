@@ -1,18 +1,13 @@
 # Hello! 👋 I'm Alicia
 
-Welcome to my GitHub profile! I'm a computer cience student , and here you'll find some of my projects and contributions. Explore and discover what I'm building!
+Welcome to my GitHub profile! I'm a computer cience student , and here you'll find some of my projects and contributions. 
 
-## About Me
+## My Areas Of Interest
 
-- 🌱 I'm currently learning [something you're currently learning].
-- 💬 Ask me about anything related to [a topic you're knowledgeable about].
-- 📫 How to reach me: [your email or social media links].
+- 🖥️ Full-stack Development
+- 👾 Game Development
+- 🤖 Machine learning
 
-## Featured Projects
-
-- [Project 1]: Brief description of the project and link.
-- [Project 2]: Brief description of the project and link.
-- [Project 3]: Brief description of the project and link.
 
 ## GitHub Stats
 
