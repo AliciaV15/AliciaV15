@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2f6c8a">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=7377ad">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML&svgfill=7377ad">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=7377ad">
 
 
  
