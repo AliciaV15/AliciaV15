@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=f7e025">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
 </a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
