@@ -42,8 +42,14 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=ff3427">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=ffffff">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQL&svgfill=ffffff">
-   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vscode&svgfill=ffffff">
+
+## Database 💾
+<p align="center">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sqlserver&svgfill=712d79">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffffff">
+
+
 
 
 
