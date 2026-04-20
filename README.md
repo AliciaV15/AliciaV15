@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a computer cience student , and here you'll fi
 
 ## My Areas Of Interest
 
+- 🤖 Artificial Intelligence
 - 🖥️ Full-stack Development
-- 🤖 Machine learning
 - 👾 Game Development
 
 
