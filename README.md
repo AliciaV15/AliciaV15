@@ -1,44 +1,57 @@
 # Hello! 👋 I'm Alicia
 
-Welcome to my GitHub profile! I'm a computer cience student , and here you'll find some of my projects and contributions. 
+Systems Engineer passionate about building **full-stack applications and AI-powered systems**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=F7F7F7&random=false&width=550&lines=Commit+to+constant+improvement;Hello+World!;Always+learning;Coding...)](https://git.io/typing-svg)
+I enjoy developing end-to-end solutions that combine backend APIs, modern frontends, and intelligent systems using machine learning and LLMs.
 
-## My Areas Of Interest
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=F7F7F7&width=600&lines=Full-Stack+Developer;AI+%7C+LLMs+%7C+Agents+%7C+ML;Always+learning+and+improving)](https://git.io/typing-svg)
 
-- 🤖 Artificial Intelligence
-- 🖥️ Full-stack Development
-- 👾 Game Development
+---
 
+## 🚀 What I Work On
 
+- 🖥️ Full-Stack Development 
+- ⚙️ Backend APIs
+- 🤖 AI & LLM Applications 
+- 🧠 Machine Learning
 
+---
 
-## Languages ✏️
+## 🛠️ Tech Stack
+
+### Languages
 <p align="center">  
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2f6c8a">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=6d287e">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=f06a31">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=39acdd">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=2f6c8a">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f7e025">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=6d287e">
+</p>
 
-
-
-## Frameworks and tools 📘
+### Frameworks & Tools
 <p align="center">  
- 
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=712d79">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=ff3427">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=unity&svgfill=ffffff">
-   
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=15d8fe">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=fastapi&svgfill=009688">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ed">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=712d79">
+</p>
 
+---
 
+## 🎯 Current Focus
 
+- Building **AI-powered full-stack applications**
+- Improving **agentic systems with tools and reasoning**
+- Developing **scalable backend services**
 
-## 
+---
 
-Thanks for visiting my profile!
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/alicia-virreira-idina-3bb07626a/
+
+---
+
+Thanks for visiting my profile 🚀
 
